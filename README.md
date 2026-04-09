@@ -9,7 +9,7 @@
 ## 🚀 About Me
 - 🎓 BCA Student passionate about AI & Data Science  
 - 🤖 Working on **Machine Learning, Deep Learning & Reinforcement Learning**  
-- 🧠 Built projects like **DQN (Flappy Bird AI Agent)**  
+- 🧠 Built projects like **DQN (Flappy Bird AI Agent)**/ **Ai-Text-Summarizer** 
 - 📊 Interested in solving real-world problems using AI  
 - 💡 Currently learning **Advanced AI & Generative AI**  
 
